@@ -1,0 +1,4 @@
+[submodule "skynet"]
+	path = skynet
+	url = https://github.com/cloudwu/skynet.git
+	branch = origin/master/5c508e45a7b7f7c717384fc4926f2475993bef41
